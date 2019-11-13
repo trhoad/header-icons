@@ -6,3 +6,29 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+  font-family: Merriweather, serif;
+}
+
+header {
+  font-weight: bold;
+  color: #fff;
+  background-color: #d05c2e;
+  font-size: 2rem;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+a {
+  font-size: 1.125rem;
+  text-decoration: none;
+  color: #fff;
+}
+
+img {
+  width: 40px;
+}
